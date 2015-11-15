@@ -1,0 +1,29 @@
+	My program is based on Movie boking ticket System.
+	
+	I have taken book my show as a refernce for my project.  
+	
+	In my Program , The user is able to see the Movies that are being shown. 
+	It has Multiple screens for booking facility.
+	User can select the timing of the show he/she wants to book.
+	The seating arrangement is being shown, with the seat numbers on it. 
+	As soon as user books tickets, those seats have been stored in an file.
+	Next time it checks the seats that are already occupied and shows the seats accordingly.
+	
+	Tickets once sold cannot be cancelled , so it gives a warning and asks for confirmation before proceeding to paymnet. 
+	
+	New User has to create his create his own account.
+	Then user gives his details like name, mobile number and all, and can select his payment option. 
+	All these have been stored in a file in by a stucure variable of a customer	
+	The ticket is shown on the screen.
+		
+	If you want change the name of movies and timings in future, just change the arrays specified in the main.c
+	
+	ADMIN : The password for admin is 'password'. 
+	The password is encrypted.
+	The admin can view all the bookings including their personal information seat numbers and all.
+	At the end of the day he can reset all bookings by deleting the txt files of each show.
+	After this all booked seats are gone, and shows vacant screens.
+	
+	BUGS : 
+	Dont press anything other than options provided each time, otherwise it exits the program OR goes into an infinite loop.
+	 

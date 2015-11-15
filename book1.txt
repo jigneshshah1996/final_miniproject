@@ -1,0 +1,121 @@
+Username: aditya 	 Password:sodhiya
+BOOKING ID : 1997
+Booked for ANNABELLE  @  04:00
+No. of seats Booked : 1
+Seat No.s : -86- 
+Amount : 158.919998
+Name : chaitanya
+Telephone no : 584
+Type Of Payment : Internet Banking
+
+
+Username: aditya 	 Password:sodhiya
+BOOKING ID : 1991
+Booked for ANNABELLE  @  11:00
+No. of seats Booked : 1
+Seat No.s : -76- 
+Amount : 158.919998
+Name : aditya
+Telephone no : 54864864
+Type Of Payment : Internet Banking
+
+
+Username: aditya 	 Password:sodhiya
+BOOKING ID : 1997
+Booked for ANNABELLE  @  11:00
+No. of seats Booked : 1
+Seat No.s : -66- 
+Amount : 158.919998
+Name : sefhh
+Telephone no : rshufuyr
+Type Of Payment : Internet Banking
+
+
+Username: chaitanya 	 Password:home
+BOOKING ID : 2002
+Booked for ANNABELLE  @  11:00
+No. of seats Booked : 2
+Seat No.s : -57- -58- 
+Amount : 257.839996
+Name : cahhaf
+Telephone no : 534865
+Type Of Payment : Internet Banking
+
+
+Username: chaitanya 	 Password:home
+BOOKING ID : 1987
+Booked for HAIDER  @  01:30
+No. of seats Booked : 1
+Seat No.s : -86- 
+Amount : 158.919998
+Name : chaitanyta
+Telephone no : 48678654
+Type Of Payment : Internet Banking
+
+
+Username: ajit 	 Password:raj
+BOOKING ID : 2004
+Booked for BANG BANG  @  03:30
+No. of seats Booked : 1
+Seat No.s : -67- 
+Amount : 158.919998
+Name : chaitanya
+Telephone no : 154486489
+Type Of Payment : Internet Banking
+
+
+Username: aditya 	 Password:sodhiya
+BOOKING ID : 2014
+Booked for BANG BANG  @  03:30
+No. of seats Booked : 1
+Seat No.s : -58- 
+Amount : 128.919998
+Name : fserth
+Telephone no : 2
+Type Of Payment : Internet Banking
+
+
+Username: chaitanya 	 Password:home
+BOOKING ID : 1985
+Booked for HAIDER  @  05:30
+No. of seats Booked : 2
+Seat No.s : -47- -48- 
+Amount : 257.839996
+Name : chaitanta
+Telephone no : 1684864
+Type Of Payment : Internet Banking
+
+
+Username: aditya 	 Password:sodhiya
+BOOKING ID : 2011
+Booked for ANNABELLE  @  04:00
+No. of seats Booked : 2
+Seat No.s : -27- -28- 
+Amount : 197.839996
+Name : dfsgth
+Telephone no : 6579865
+Type Of Payment : Internet Banking
+
+
+Username: jignesh 	 Password:password
+BOOKING ID : 2000
+Booked for THE MARTIAN  @  11:00
+No. of seats Booked : 2
+Seat No.s : -44- -66- 
+Amount : 257.839996
+Name : jignesh
+Telephone no : 9168990422
+Type Of Payment : Credit/Debit Card
+
+
+Username: jignesh 	 Password:password
+BOOKING ID : 2002
+Booked for PYAR KA PUNCHNAM06:30  @  06:30
+No. of seats Booked : 3
+Seat No.s : -3- -7- -2- 
+Amount : 296.760010
+Name : jignesh
+Telephone no : 9168990422
+Type Of Payment : Internet Banking
+
+
